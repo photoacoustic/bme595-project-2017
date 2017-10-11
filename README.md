@@ -1,1 +1,5 @@
-# bme595-project-2017
+# BME595 Dee[?]earning
+## Scale of words
+### photoacoustic 
+*photoacoustic* **photoacoustic**  
+- photoacoustic

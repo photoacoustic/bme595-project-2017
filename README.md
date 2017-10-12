@@ -1,7 +1,6 @@
 # BME595 Dee[?]earning
 ### 90 drinking coffee or no drinking coffee days
-<p>I like to eat <span class="orange">oranges</span>.
-
+<font color="orange">drinking coffee<font>
 ![Coffee or NoCoffee](https://github.com/photoacoustic/bme595-project-2017/blob/master/project/Screen%20Shot%202017-10-12%20at%203.58.06%20PM.png)
 # Title  
 - Prediction of bodily metabolism using MyConnectome dataset

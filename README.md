@@ -15,7 +15,7 @@
 - The input will be 4D fMRI images (don't know if we need to count time into another dimension), in terms of the output will be bodily metabolism(ex. this is the functional MRI image scanned after this subject drinking coffee, eating breakfast...)
 - "What" should we let neural network to "See" will be a big chanllenges. We should use processed dataset, which is convolved with hemodynamic response.
 - learning new 
-## Restrictions --optional--  
+## Restrictions
 - I will be very happy if I knew a simplest way to train 4D fMRI dataset without GPU...
 
 1. ![Myconnectome](http://myconnectome.org/wp/)

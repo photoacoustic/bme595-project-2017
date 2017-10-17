@@ -1,4 +1,4 @@
-# BME595 Dee[?]earning
+# BME595 Deep Learning Project
 ### Ninety days of drinking coffee(blue) or no drinking coffee(orange)
 -blue is for drinking coffee days, orange is for not drinking coffee days. The different length of blue/orange color bars were represented  different consecutive drinking coffee/not drinking coffee days.
 

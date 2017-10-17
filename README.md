@@ -1,6 +1,6 @@
 # BME595 Dee[?]earning
 ### 90 drinking coffee(blue) or no drinking coffee(orange) days
--blue is for drinking coffee days, orange is for not drinking coffee days. The different length of blue/orange color bars were represented to different consecutive drinking coffee/not drinking coffee days.
+-blue is for drinking coffee days, orange is for not drinking coffee days. The different length of blue/orange color bars were represented  different consecutive drinking coffee/not drinking coffee days.
 ![Coffee or NoCoffee](https://github.com/photoacoustic/bme595-project-2017/blob/master/project/Screen%20Shot%202017-10-12%20at%203.58.06%20PM.png)
 # Title  
 - Using "Neural Network" Prediction of bodily metabolism with MyConnectome dataset.
